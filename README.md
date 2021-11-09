@@ -5,11 +5,11 @@ LinkedIn: https://www.linkedin.com/in/henry-slater
 
 ## Projects
 
-### Learning and Practising
+### Learning and Practicing
 
 * [ypcal](https://github.com/hnjslater/ypcal) Year Planner, one month per line in C++ (Learning [\<Chrono\>](https://en.cppreference.com/w/cpp/header/chrono))
 * [cpplask](https://github.com/hnjslater/cpplask) Flask but in C++ (Learning lamdas)
-* [Advent Of Code](https://github.com/hnjslater/AdventOfCode) Learning Go by partisipating in [Advent Of Code](https://adventofcode.com/)
+* [Advent Of Code](https://github.com/hnjslater/AdventOfCode) Learning Go by participating in [Advent Of Code](https://adventofcode.com/)
 
 ### Ludum Dare
 
